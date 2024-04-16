@@ -1,0 +1,13 @@
+procedure alpha {
+ read x;
+ num2 = 88;
+ x=num3;
+ read x;
+ num3 = 10;
+ print num2;
+ x=8+num1*5;
+ print x;
+ print num;
+ print y  ;
+ read num1;
+}

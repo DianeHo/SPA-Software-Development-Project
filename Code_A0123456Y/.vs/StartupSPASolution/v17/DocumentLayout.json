@@ -1,0 +1,660 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\Database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\Database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\ResultStorage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\ResultStorage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\QueryProcessor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\QueryProcessor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\CallsClauseEvaluator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\CallsClauseEvaluator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\Database.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\Database.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\SelectClauseEvaluator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\SelectClauseEvaluator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\Query.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\Query.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\QueryParser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\QueryParser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\ParentClauseEvaluator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\ParentClauseEvaluator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\PatternClauseEvaluator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\PatternClauseEvaluator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\Query.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\Query.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\Tokenizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\Tokenizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA3A41-F84C-4C47-B882-5EBF60895525}|UnitTesting\\UnitTesting.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\UnitTesting\\TestTokenizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74CA3A41-F84C-4C47-B882-5EBF60895525}|UnitTesting\\UnitTesting.vcxproj|solutionrelative:UnitTesting\\TestTokenizer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA3A41-F84C-4C47-B882-5EBF60895525}|UnitTesting\\UnitTesting.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\UnitTesting\\TestDatabase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74CA3A41-F84C-4C47-B882-5EBF60895525}|UnitTesting\\UnitTesting.vcxproj|solutionrelative:UnitTesting\\TestDatabase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A7FBF3-D972-4220-A6AA-960484999FBB}|AutoTester\\AutoTester.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\AutoTester\\source\\TestWrapper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20A7FBF3-D972-4220-A6AA-960484999FBB}|AutoTester\\AutoTester.vcxproj|solutionrelative:AutoTester\\source\\TestWrapper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\ModifiesClauseEvaluator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\ModifiesClauseEvaluator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\CallsClauseEvaluator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\CallsClauseEvaluator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\QueryProcessor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\QueryProcessor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\QueryParser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\QueryParser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\ConvertPostfix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\ConvertPostfix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\UsesClauseEvaluator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\UsesClauseEvaluator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\UsesClauseEvaluator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\UsesClauseEvaluator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\SourceProcessor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\SourceProcessor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\list||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\Tokenizer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\Tokenizer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\ConvertPostfix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\ConvertPostfix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\SourceProcessor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\SourceProcessor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A7FBF3-D972-4220-A6AA-960484999FBB}|AutoTester\\AutoTester.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\AutoTester\\source\\TestWrapper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20A7FBF3-D972-4220-A6AA-960484999FBB}|AutoTester\\AutoTester.vcxproj|solutionrelative:AutoTester\\source\\TestWrapper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\PatternClauseEvaluator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\PatternClauseEvaluator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A7FBF3-D972-4220-A6AA-960484999FBB}|AutoTester\\AutoTester.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\AutoTester\\source\\AbstractWrapper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20A7FBF3-D972-4220-A6AA-960484999FBB}|AutoTester\\AutoTester.vcxproj|solutionrelative:AutoTester\\source\\AbstractWrapper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA3A41-F84C-4C47-B882-5EBF60895525}|UnitTesting\\UnitTesting.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\UnitTesting\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74CA3A41-F84C-4C47-B882-5EBF60895525}|UnitTesting\\UnitTesting.vcxproj|solutionrelative:UnitTesting\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA3A41-F84C-4C47-B882-5EBF60895525}|UnitTesting\\UnitTesting.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\UnitTesting\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74CA3A41-F84C-4C47-B882-5EBF60895525}|UnitTesting\\UnitTesting.vcxproj|solutionrelative:UnitTesting\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA3A41-F84C-4C47-B882-5EBF60895525}|UnitTesting\\UnitTesting.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\UnitTesting\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74CA3A41-F84C-4C47-B882-5EBF60895525}|UnitTesting\\UnitTesting.vcxproj|solutionrelative:UnitTesting\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\ParentClauseEvaluator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\ParentClauseEvaluator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\sqlite3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC21A1EA-D2C6-4D14-A2B4-E025B64BDE81}|SPA\\SPA.vcxproj|solutionrelative:source\\sqlite3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\deque||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\SPA\\checkEntities.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SPA\\checkEntities.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 494,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QueryProcessor.cpp",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\QueryProcessor.cpp",
+              "RelativeDocumentMoniker": "source\\QueryProcessor.cpp",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\QueryProcessor.cpp",
+              "RelativeToolTip": "source\\QueryProcessor.cpp",
+              "ViewState": "AQIAAJEBAAAAAAAAAAApwHsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-05T08:22:21.35Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CallsClauseEvaluator.cpp",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\CallsClauseEvaluator.cpp",
+              "RelativeDocumentMoniker": "source\\CallsClauseEvaluator.cpp",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\CallsClauseEvaluator.cpp",
+              "RelativeToolTip": "source\\CallsClauseEvaluator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-14T09:45:42.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SelectClauseEvaluator.cpp",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\SelectClauseEvaluator.cpp",
+              "RelativeDocumentMoniker": "source\\SelectClauseEvaluator.cpp",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\SelectClauseEvaluator.cpp",
+              "RelativeToolTip": "source\\SelectClauseEvaluator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T12:07:48.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cpp",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\Database.cpp",
+              "RelativeDocumentMoniker": "source\\Database.cpp",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\Database.cpp",
+              "RelativeToolTip": "source\\Database.cpp",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAALUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-17T15:10:30.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PatternClauseEvaluator.cpp",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\PatternClauseEvaluator.cpp",
+              "RelativeDocumentMoniker": "source\\PatternClauseEvaluator.cpp",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\PatternClauseEvaluator.cpp",
+              "RelativeToolTip": "source\\PatternClauseEvaluator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T14:59:51.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tokenizer.cpp",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\Tokenizer.cpp",
+              "RelativeDocumentMoniker": "source\\Tokenizer.cpp",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\Tokenizer.cpp",
+              "RelativeToolTip": "source\\Tokenizer.cpp",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T02:46:34.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestTokenizer.cpp",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\UnitTesting\\TestTokenizer.cpp",
+              "RelativeDocumentMoniker": "UnitTesting\\TestTokenizer.cpp",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\UnitTesting\\TestTokenizer.cpp",
+              "RelativeToolTip": "UnitTesting\\TestTokenizer.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAcwEwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T02:48:23.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TestDatabase.cpp",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\UnitTesting\\TestDatabase.cpp",
+              "RelativeDocumentMoniker": "UnitTesting\\TestDatabase.cpp",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\UnitTesting\\TestDatabase.cpp",
+              "RelativeToolTip": "UnitTesting\\TestDatabase.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T02:48:12.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TestWrapper.cpp",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\AutoTester\\source\\TestWrapper.cpp",
+              "RelativeDocumentMoniker": "AutoTester\\source\\TestWrapper.cpp",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\AutoTester\\source\\TestWrapper.cpp",
+              "RelativeToolTip": "AutoTester\\source\\TestWrapper.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-15T11:24:52.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ModifiesClauseEvaluator.cpp",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\ModifiesClauseEvaluator.cpp",
+              "RelativeDocumentMoniker": "source\\ModifiesClauseEvaluator.cpp",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\ModifiesClauseEvaluator.cpp",
+              "RelativeToolTip": "source\\ModifiesClauseEvaluator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T12:56:32.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CallsClauseEvaluator.h",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\CallsClauseEvaluator.h",
+              "RelativeDocumentMoniker": "source\\CallsClauseEvaluator.h",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\CallsClauseEvaluator.h",
+              "RelativeToolTip": "source\\CallsClauseEvaluator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-14T09:47:04.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Tokenizer.h",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\Tokenizer.h",
+              "RelativeDocumentMoniker": "source\\Tokenizer.h",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\Tokenizer.h",
+              "RelativeToolTip": "source\\Tokenizer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-17T02:01:10.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "checkEntities.cpp",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\SPA\\checkEntities.cpp",
+              "RelativeDocumentMoniker": "SPA\\checkEntities.cpp",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\SPA\\checkEntities.cpp",
+              "RelativeToolTip": "SPA\\checkEntities.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-14T09:46:26.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UsesClauseEvaluator.h",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\UsesClauseEvaluator.h",
+              "RelativeDocumentMoniker": "source\\UsesClauseEvaluator.h",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\UsesClauseEvaluator.h",
+              "RelativeToolTip": "source\\UsesClauseEvaluator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T04:17:13.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "list",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\list",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\list",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\list",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\list",
+              "ViewState": "AQIAAJ8EAAAAAAAAAAAewLUEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-06T04:26:16.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SourceProcessor.h",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\SourceProcessor.h",
+              "RelativeDocumentMoniker": "source\\SourceProcessor.h",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\SourceProcessor.h",
+              "RelativeToolTip": "source\\SourceProcessor.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-14T10:03:12.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SourceProcessor.cpp",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\SourceProcessor.cpp",
+              "RelativeDocumentMoniker": "source\\SourceProcessor.cpp",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\SourceProcessor.cpp",
+              "RelativeToolTip": "source\\SourceProcessor.cpp",
+              "ViewState": "AQIAAP8AAAAAAAAAAAAcwOoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-14T05:48:42.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TestWrapper.h",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\AutoTester\\source\\TestWrapper.h",
+              "RelativeDocumentMoniker": "AutoTester\\source\\TestWrapper.h",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\AutoTester\\source\\TestWrapper.h",
+              "RelativeToolTip": "AutoTester\\source\\TestWrapper.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T02:34:08.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PatternClauseEvaluator.h",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\PatternClauseEvaluator.h",
+              "RelativeDocumentMoniker": "source\\PatternClauseEvaluator.h",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\PatternClauseEvaluator.h",
+              "RelativeToolTip": "source\\PatternClauseEvaluator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T10:45:47.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AbstractWrapper.h",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\AutoTester\\source\\AbstractWrapper.h",
+              "RelativeDocumentMoniker": "AutoTester\\source\\AbstractWrapper.h",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\AutoTester\\source\\AbstractWrapper.h",
+              "RelativeToolTip": "AutoTester\\source\\AbstractWrapper.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T02:35:47.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "targetver.h",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\UnitTesting\\targetver.h",
+              "RelativeDocumentMoniker": "UnitTesting\\targetver.h",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\UnitTesting\\targetver.h",
+              "RelativeToolTip": "UnitTesting\\targetver.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T02:48:03.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\UnitTesting\\stdafx.h",
+              "RelativeDocumentMoniker": "UnitTesting\\stdafx.h",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\UnitTesting\\stdafx.h",
+              "RelativeToolTip": "UnitTesting\\stdafx.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T02:47:57.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "stdafx.cpp",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\UnitTesting\\stdafx.cpp",
+              "RelativeDocumentMoniker": "UnitTesting\\stdafx.cpp",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\UnitTesting\\stdafx.cpp",
+              "RelativeToolTip": "UnitTesting\\stdafx.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T02:47:40.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ParentClauseEvaluator.h",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\ParentClauseEvaluator.h",
+              "RelativeDocumentMoniker": "source\\ParentClauseEvaluator.h",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\ParentClauseEvaluator.h",
+              "RelativeToolTip": "source\\ParentClauseEvaluator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-10T12:21:28.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "deque",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\deque",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\deque",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\deque",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\deque",
+              "ViewState": "AQIAAIoFAAAAAAAAAAAewKAFAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-01T13:25:40.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "sqlite3.c",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\sqlite3.c",
+              "RelativeDocumentMoniker": "source\\sqlite3.c",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\sqlite3.c",
+              "RelativeToolTip": "source\\sqlite3.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-13T11:55:59.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Database.h",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\Database.h",
+              "RelativeDocumentMoniker": "source\\Database.h",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\Database.h",
+              "RelativeToolTip": "source\\Database.h",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T11:51:00.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResultStorage.h",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\ResultStorage.h",
+              "RelativeDocumentMoniker": "source\\ResultStorage.h",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\ResultStorage.h",
+              "RelativeToolTip": "source\\ResultStorage.h",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T10:46:29.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Query.cpp",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\Query.cpp",
+              "RelativeDocumentMoniker": "source\\Query.cpp",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\Query.cpp",
+              "RelativeToolTip": "source\\Query.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T02:39:54.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QueryParser.cpp",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\QueryParser.cpp",
+              "RelativeDocumentMoniker": "source\\QueryParser.cpp",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\QueryParser.cpp",
+              "RelativeToolTip": "source\\QueryParser.cpp",
+              "ViewState": "AQIAALMAAAAAAAAAAAAewMMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T10:37:04.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParentClauseEvaluator.cpp",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\ParentClauseEvaluator.cpp",
+              "RelativeDocumentMoniker": "source\\ParentClauseEvaluator.cpp",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\ParentClauseEvaluator.cpp",
+              "RelativeToolTip": "source\\ParentClauseEvaluator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T12:19:55.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Query.h",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\Query.h",
+              "RelativeDocumentMoniker": "source\\Query.h",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\Query.h",
+              "RelativeToolTip": "source\\Query.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-14T02:10:47.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QueryProcessor.h",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\QueryProcessor.h",
+              "RelativeDocumentMoniker": "source\\QueryProcessor.h",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\QueryProcessor.h",
+              "RelativeToolTip": "source\\QueryProcessor.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-12T15:42:09.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UsesClauseEvaluator.cpp",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\UsesClauseEvaluator.cpp",
+              "RelativeDocumentMoniker": "source\\UsesClauseEvaluator.cpp",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\UsesClauseEvaluator.cpp",
+              "RelativeToolTip": "source\\UsesClauseEvaluator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-10T14:57:14.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "QueryParser.h",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\QueryParser.h",
+              "RelativeDocumentMoniker": "source\\QueryParser.h",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\QueryParser.h",
+              "RelativeToolTip": "source\\QueryParser.h",
+              "ViewState": "AQIAAAEAAAAAAAAAAABBwBkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-10T10:35:37.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConvertPostfix.h",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\ConvertPostfix.h",
+              "RelativeDocumentMoniker": "source\\ConvertPostfix.h",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\ConvertPostfix.h",
+              "RelativeToolTip": "source\\ConvertPostfix.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-13T05:15:04.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ConvertPostfix.cpp",
+              "DocumentMoniker": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\ConvertPostfix.cpp",
+              "RelativeDocumentMoniker": "source\\ConvertPostfix.cpp",
+              "ToolTip": "C:\\Users\\wenhu\\Downloads\\Final Version. version 3\\Final Version\\A0265562Y_A0265582W_0204 Version 9\\TIC2003_SPA - Copy\\Code_A0123456Y\\source\\ConvertPostfix.cpp",
+              "RelativeToolTip": "source\\ConvertPostfix.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAiwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T05:15:16.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "ViewState": "AQIAAE4HAAAAAAAAAAAewGQHAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-13T10:58:23.575Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

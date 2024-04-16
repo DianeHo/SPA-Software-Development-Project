@@ -1,0 +1,22 @@
+procedure alpha {
+	x = y;
+	a = b + 1;
+	print k;
+	while (x < a) {
+		print a;
+		while (a < 1) {
+			a = d + c * b + 1;
+			print c;
+			read b;
+		}
+		if (y > a) then{
+			read y;
+			print k;
+		} else {
+			print a;
+		}
+	}
+	print s;
+	s = s + y;
+	read y;
+}

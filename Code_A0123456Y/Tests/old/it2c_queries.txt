@@ -1,0 +1,45 @@
+1 - select child assignments for parent if
+assign a; if i;
+Select a such that Parent(i,a)
+10,11,12,13,14
+5000
+2 - select all child assignments for parent while
+assign a; while w;
+Select a such that Parent(w,a)
+2,3,4,8
+5000
+3 - select parentT of line 5
+stmt t;
+Select t such that Parent*(t,5)
+1
+5000
+4 - select all read variables modified in statements
+read r; variable v;
+Select v such that Modifies(r,v)
+a
+5000
+5 - select variable modified in line 10
+variable v;
+Select v such that Modifies(10,v)
+i
+5000
+6 - select all variables modified in if statements
+if i; variable v;
+Select v such that Modifies(i,v)
+i,a,y
+5000
+7 - Select pattern with i*x on LHS
+assign a;
+Select a pattern a(_,_"i*x"_)
+8
+5000
+8 - select pattern with i on LHS
+assign a;
+Select a pattern a("i",_)
+3,4,10,13,14
+5000
+9 - select pattern with i on LHS and 5 on RHS
+assign a;
+Select a pattern a("i",_"5"_)
+4,14
+5000

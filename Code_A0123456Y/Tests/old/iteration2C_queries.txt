@@ -1,0 +1,70 @@
+1 - Procedure
+procedure p;
+Select p
+main
+5000
+2 - Variable
+variable v;
+Select v
+b,c,d,if2Stmt1,if2Stmt2,else2Stmt1,else2Stmt2,f,g,a,if3Stmt1,if3Stmt2
+5000
+3 - Constant
+constant c;
+Select c
+5
+5000
+4 - Assignment
+assign a;
+Select a
+3,4,5,6,9,10
+5000
+5 - Print
+print pr;
+Select pr
+12
+5000
+6 - Read
+read rd;
+Select rd
+11
+5000
+7 - Statement
+stmt s;
+Select s
+1,2,3,4,5,6,7,8,9,10,11,12
+5000
+8 - Such That (parent of #11)
+stmt t;
+select t such that parent(t,11)
+8
+5000
+9 - such that (parent(i,a))
+assign a; if i;
+select a such that parent(i,a)
+3,4,5,6,9,10
+5000
+10 - such that (parent(w,a))
+assign a; while w;
+select a such that parent(w,a)
+
+5000
+11 - Such That (parent T of #15)
+stmt t
+select t such that parent*(t,11)
+7,8
+5000
+12 - Such That (parentT(w,a))
+assign a; while w;
+select a such that parent*(w,a)
+3,4,5,6
+5000
+13 - such that (parentT(i,a))
+assign a; if i;
+select a such that parent*(i,a)
+3,4,5,6,9,10
+5000
+14 - pattern a (a,"d"_)
+assign a, 
+select a such that pattern a(a,"d"_)
+if2Stmt2, if3Stmt1
+

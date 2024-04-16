@@ -1,0 +1,45 @@
+1 - Select all read statement that Modifies something
+variable v; read r;
+Select r such that Modifies(r, v)
+9,11,16
+5000
+2 - Select read statements that Modifies a certain variable
+variable v1, v; read r;
+Select r such that Modifies(r, "y")
+11,16
+5000
+3 - Select the varible modified in a specific statement 
+variable v1, v;
+Select v such that Modifies(9, v)
+b
+5000
+4 - Select all children of while statements
+while w; stmt s;
+Select s such that Parent(w, s)
+5,6,7,8,9,10
+5000
+5 - Select all statements with parent
+stmt s1, s;
+Select s1 such that Parent(s, s1)
+5,6,7,8,9,10,11,12,13
+5000
+6 - Select all read statements within a while loop
+read r; while w;
+Select r such that Parent* (w, r)
+9,11
+5000
+7 - Select all assignment statements with s+y on RHS
+assign a;
+Select a pattern a(_, _"s+y"_)
+15
+5000
+8 -Select all assignment statements with a on LHS and b on RHS
+assign a;
+Select a pattern a("a", _"b"_)
+2,7
+5000
+9 -Select all assignment statements with b+1 on RHS
+assign a;
+Select a pattern a(_, _"b + 1"_)
+2
+5000

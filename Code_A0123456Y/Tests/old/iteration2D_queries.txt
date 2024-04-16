@@ -1,0 +1,50 @@
+1 - Procedure
+procedure p;
+Select p;
+alpha
+5000
+2 - Variable
+variable v;
+Select v
+num, num1, num2, num3, x, y
+5000
+3 - Constant
+constant c;
+Select c
+88, 10, 8, 5
+5000
+4 - Assignment
+assign a;
+Select a'
+2, 3, 5, 7
+5000
+5 - Print
+print pr;
+Select pr
+6, 8, 9, 10
+5000
+6 - Read
+read rd;
+Select rd
+1, 4, 11
+5000
+7 - Statement
+stmt s;
+Select s
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+5000
+8 - Pattern
+assign a;  
+Select a pattern a (_,"8+num1*5")
+7
+5000
+9 - Pattern
+assign a;  
+Select a pattern a ("x",_"num1*5"_)
+7
+5000
+9 - Pattern
+assign a;  
+Select a pattern a ("x","num1*5")
+
+5000

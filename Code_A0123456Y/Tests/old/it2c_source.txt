@@ -1,0 +1,21 @@
+procedure gamma {
+	while (r < s) {
+		x = y;
+		i = i;
+		i = 5;
+		while (a > 65) {
+			read a;
+			print b;
+			z = 5 + i * x;
+			if (count < 2) then {
+				i = a;
+				a = 1;
+			} else {
+				y = 3;
+				i = i;
+				i = 5;
+			}
+		}
+	}
+}
+

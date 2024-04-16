@@ -1,0 +1,71 @@
+<?xml-stylesheet type="text/xsl" href="analysis.xsl"?>
+<test_results>
+<info>
+<name>AutoTester</name><parsing_time_taken>171.000000</parsing_time_taken>
+</info>
+<queries>
+<query>
+<id ReturnTuple="1" Parent="1" SuchThat="1" CondNum="3" RelNum="1" comment="select child assignments for parent if">1</id><querystr><![CDATA[assign a; if i; Select a such that Parent(i,a)]]></querystr>
+<stuans>10,11,12,13,14</stuans>
+<correct>10,11,12,13,14</correct>
+<time_taken>10.000000</time_taken>
+<passed/>
+</query>
+<query>
+<id ReturnTuple="1" Parent="1" SuchThat="1" CondNum="3" RelNum="1" comment="select all child assignments for parent while">2</id><querystr><![CDATA[assign a; while w; Select a such that Parent(w,a)]]></querystr>
+<stuans>2,3,4,8</stuans>
+<correct>2,3,4,8</correct>
+<time_taken>10.000000</time_taken>
+<passed/>
+</query>
+<query>
+<id ReturnTuple="1" Parentstar="1" SuchThat="1" CondNum="3" RelNum="1" comment="select parentT of line 5">3</id><querystr><![CDATA[stmt t; Select t such that Parent*(t,5)]]></querystr>
+<stuans>1,1,1,1</stuans>
+<correct>1</correct>
+<time_taken>9.000000</time_taken>
+<passed/>
+</query>
+<query>
+<id ReturnTuple="1" Modifies="1" SuchThat="1" CondNum="3" RelNum="1" comment="select all read variables modified in statements">4</id><querystr><![CDATA[read r; variable v; Select v such that Modifies(r,v)]]></querystr>
+<stuans>a</stuans>
+<correct>a</correct>
+<time_taken>6.000000</time_taken>
+<passed/>
+</query>
+<query>
+<id ReturnTuple="1" Modifies="1" SuchThat="1" CondNum="3" RelNum="1" comment="select variable modified in line 10">5</id><querystr><![CDATA[variable v; Select v such that Modifies(10,v)]]></querystr>
+<stuans>i</stuans>
+<correct>i</correct>
+<time_taken>6.000000</time_taken>
+<passed/>
+</query>
+<query>
+<id ReturnTuple="1" Modifies="1" SuchThat="1" CondNum="3" RelNum="1" comment="select all variables modified in if statements">6</id><querystr><![CDATA[if i; variable v; Select v such that Modifies(i,v)]]></querystr>
+<stuans>i,a,y,i,i</stuans>
+<correct>i,a,y</correct>
+<time_taken>7.000000</time_taken>
+<passed/>
+</query>
+<query>
+<id ReturnTuple="1" UnnamedVar="1" Pattern="1" CondNum="3" RelNum="0" comment="Select pattern with i*x on LHS">7</id><querystr><![CDATA[assign a; Select a pattern a(_,_"i*x"_)]]></querystr>
+<stuans>8</stuans>
+<correct>8</correct>
+<time_taken>9.000000</time_taken>
+<passed/>
+</query>
+<query>
+<id ReturnTuple="1" UnnamedVar="1" Pattern="1" CondNum="3" RelNum="0" comment="select pattern with i on LHS">8</id><querystr><![CDATA[assign a; Select a pattern a("i",_)]]></querystr>
+<stuans>3,4,10,13,14</stuans>
+<correct>3,4,10,13,14</correct>
+<time_taken>9.000000</time_taken>
+<passed/>
+</query>
+<query>
+<id ReturnTuple="1" UnnamedVar="1" Pattern="1" CondNum="3" RelNum="0" comment="select pattern with i on LHS and 5 on RHS">9</id><querystr><![CDATA[assign a; Select a pattern a("i",_"5"_)]]></querystr>
+<stuans>4,14</stuans>
+<correct>4,14</correct>
+<time_taken>7.000000</time_taken>
+<passed/>
+</query>
+</queries>
+</test_results>

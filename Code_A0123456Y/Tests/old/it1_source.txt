@@ -1,0 +1,21 @@
+procedure alpha {
+ read x;
+ num2 = 88;
+ x=num3;
+ read x;
+ num3 = 10;
+ print num2;
+ x=num1;
+ print x;
+ print num;
+ print y  ;
+ read num1;
+ while ((x+y)!=0){
+  x=y-1;
+  if (x == 0) then {
+  num1 = num2 + y;
+  } else {
+ 	y=x;
+    }
+  }
+}

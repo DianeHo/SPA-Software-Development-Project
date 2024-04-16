@@ -1,0 +1,22 @@
+procedure main {
+    while (a<0) {
+        if(d == f) then{
+            if2Stmt1 = 5;
+            if2Stmt2 = d;
+        }
+        else{
+            else2Stmt1 = f;
+            else2Stmt2 = g;
+        }
+    }
+    if {
+        if(a == a) then{
+            if3Stmt1 = d;
+            if3Stmt2 = c;
+        }
+        else{
+            read a;
+            print b;
+        }
+    }
+}
